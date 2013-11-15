@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pierre.paridans@arag.be"]
   spec.description   = %q{Install this gem `require 'jdbc/informix'`}
   spec.summary       = %q{Informix JDBC driver for JRuby.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/pparidans/jdbc-informix"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
