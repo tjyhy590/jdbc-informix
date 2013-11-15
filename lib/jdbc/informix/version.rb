@@ -1,5 +1,6 @@
 module Jdbc
   module Informix
-    VERSION = "0.0.1"
+  	DRIVER_VERSION = '3.50.JC9'
+    VERSION = DRIVER_VERSION
   end
 end
